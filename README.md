@@ -20,3 +20,16 @@ Este es un clon del clásico juego **Doodle Jump**, desarrollado como proyecto p
 ## 🎮 Cómo jugar
 
 - Puedes ir a nustros relases para ver el último APK disponible
+
+## 📸 Capturas de pantalla
+
+
+## 📦 Roadmap / Mejoras futuras
+- Power-ups - Próximamente (jetpack, trampolines, etc.)
+
+- Sonido y música de fondo - Próximamente
+
+## 📄 Licencia
+- Este proyecto está bajo la licencia MIT.
+
+## Hecho con ❤️ por **PinkyCore**
