@@ -25,7 +25,7 @@ Este es un clon del clásico juego **Doodle Jump**, desarrollado como proyecto p
 
 
 ## 📦 Roadmap / Mejoras futuras
-- Power-ups - Próximamente (jetpack, trampolines, etc.)
+- Power-ups (jetpack, trampolines, etc.) - Próximamente
 
 - Sonido y música de fondo - Próximamente
 
